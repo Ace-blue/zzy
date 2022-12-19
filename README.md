@@ -1,25 +1,3 @@
-# 欢迎来到Github Pages在线简历制作
-
-![resume](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4rhzy3hvj30rs0hs77m.jpg)
-
-此在线简历基于Github pages搭建，您只需要简单修改几个文件，便可以达到上面的效果！
-
-## 开始制作在线简历
-
-### Step1: `Fork`本仓库
-
-按照下面的图片所示位置，Fork此仓库到你自己的Github账户下面。
-
-![fork](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4ri8yqqcj31pk0ky0y1.jpg)
-
-### Step2: `Clone`你的仓库
-
-前一步Fork到你Github下面的仓库到你本地。
-使用`git clone [respository url]`命令，将你前一步Fork到你Github下面的仓库Clone到你本地, 仓库地址如下：
-
-![git clone](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4rikf4c5j31qy0ow7b5.jpg)
-
-### Step3：修改配置
 
 进入到你本地仓库的目录，修改配置文件`_config.yml`. 后保存提交到远程仓库。
 主要修改以下内容：
