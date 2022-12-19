@@ -23,24 +23,3 @@ profession: 国际贸易与经济
 degree: 硕士学位
 # 你获得过的证书或奖励
 credential: 英语六级/计算机三级
-```
-
-### Step4: 书写简历
-
-进入到你本地仓库的目录，在`index.md`里面书写自己的简历，内容可以包括：基本技能，工作经历，个人特色，完成之后保存提交到远程仓库。
-
-### Step5：设置Github Pages
-
-打开Github仓库的设置里面，找到`GitHub Pages`设置，选择source为Master branch，选择主题为`Minimal theme`，选择应用该主题即可。
-
-![github setting](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4riwsbvij31po0hgtd5.jpg)
-
-![github pages setting](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4rjm6jy0j31dm0pa436.jpg)
-
-![github pages theme](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4rjt895vj31t80fygor.jpg)
-
-### Step6: 访问Github Pages
-
-复制生成的Github pages URL，预览你的简历效果
-
-![github pages url](https://tva1.sinaimg.cn/large/007S8ZIlly1gh4rjzza5xj31by0oo0wz.jpg)
