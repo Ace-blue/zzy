@@ -1,11 +1,4 @@
-<font face="Consolas" size="4" color="b" meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
 ##  Zeyu Zhang（张泽宇）
-  
-  
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="life_pic.jpg"  width="170" height="170" ></div>
-  
-<div style="float:left;border:solid 1px 000;margin:2px;"> 
 
 Postgraduate
 
